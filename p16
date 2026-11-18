@@ -1,0 +1,13 @@
+#include<stdio.h>
+#include<stdlib.>
+int parent[20];
+int find(int i)
+{
+while(parent(for Union-Find)
+int find (int i)
+{
+while(parent[i]!=i)
+i=parent[i];
+retun i;
+}
+
